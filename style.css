@@ -1,0 +1,20 @@
+th{
+    text-align: center;
+    padding: 12px;
+    width: 33%;
+}
+tr{
+    border: 2px solid black;
+}
+
+.vh-custom{
+    height: 70vh;
+}
+
+.form-check{
+    padding: 12px 20px;
+}
+
+#\+{
+    color: red;
+}
